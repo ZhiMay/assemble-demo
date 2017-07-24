@@ -1,19 +1,9 @@
 # Introduction to Assemble
-
-> This project will help you get started with Assemble. Just download, install the dependencies, and you're off and running!
-
-You might be amazed at how little setup is required to start using Assemble. [This gist](https://gist.github.com/jonschlinkert/9579914) includes everything you need to create a 100% complete Assemble project!
-
-## Getting started
-
-Ready to learn how to do _more than_ what's covered in the gist? Of course you are! Let's get this ball rolling!
-
 ### Install
+```bash
+npm  install
+```
 
-Download this project using one of the following options:
-
-* Use git: `git clone https://github.com/jonschlinkert/assemble-example.git`
-* Download directly [from GitHub](https://github.com/jonschlinkert/assemble-example/archive/master.zip), then unpack the zip file.
 
 Next, in the root of the `assemble-example` directory, to install the necessary dependencies, run:
 
@@ -21,9 +11,6 @@ Next, in the root of the `assemble-example` directory, to install the necessary 
 npm install
 ```
 Done! You should now be able to run `grunt` to build the project.
-
-_<sup>(Although this example project uses Grunt, unless otherwise noted the information here is build-chain agnostic. If you're a Gulp fan, stay on the lookout, we'll be publishing a [gulp-assemble](https://github.com/assemble/gulp-assemble) example soon!)</sup>_
-
 
 ### Usage
 
@@ -304,28 +291,16 @@ And that's a wrap! At least for this example, which covers only a fraction of wh
 
 If you don't find what you need here or in the docs, we encourage you to visit Assemble's [GitHub Issues][issues] page to create an issue, we're always happy to help new users get started!
 
-## Authors
-
-This example and guide was written by [Jon Schlinkert](https://github.com/jonschlinkert), Assemble was created by:
-
-**Jon Schlinkert**
-
-+ [github/jonschlinkert](https://github.com/jonschlinkert)
-+ [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
-
-**Brian Woodward**
-
-+ [github/doowb](https://github.com/doowb)
-+ [twitter/doowb](http://twitter.com/jonschlinkert)
 
 
-## License
-
-Copyright (c) 2014 [Jon Schlinkert](http://twitter.com/jonschlinkert), [Brian Woodward](http://twitter.com/doowb), contributors.
-Released under the [MIT license](./LICENSE-MIT)
 
 
-[permalinks]: https://github.com/assemble/assemble-contrib-permalinks
-[helpers]: https://github.com/assemble/assemble-docs/tree/master/src/content/helpers
-[issues]: https://github.com/assemble/assemble/issues?direction=desc&sort=updated&state=open
+
+
+
+
+
+
+
+
 
