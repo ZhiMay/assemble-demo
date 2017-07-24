@@ -8,7 +8,12 @@ npm install -g grunt-cli(node 6.6)
 Next, in the root of the `assemble-demo` directory, to install the necessary dependencies, run:
 
 ```bash
+cd my-project
 npm install
+```
+#Build
+```bash
+   npm start
 ```
 Done! You should now be able to run `grunt` to build the project.
 
