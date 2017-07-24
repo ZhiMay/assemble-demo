@@ -1,11 +1,11 @@
 # Introduction to Assemble
-### Install
+### Install grunt
 ```bash
-npm  install
+npm install -g grunt-cli(node 6.6)
 ```
 
 
-Next, in the root of the `assemble-example` directory, to install the necessary dependencies, run:
+Next, in the root of the `assemble-demo` directory, to install the necessary dependencies, run:
 
 ```bash
 npm install
